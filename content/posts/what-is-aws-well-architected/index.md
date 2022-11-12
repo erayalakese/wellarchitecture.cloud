@@ -1,5 +1,5 @@
 ---
-title: "What Is Aws Well Architected?"
+title: "What Is AWS Well Architected?"
 description: AWS Well-Architected is a framework that helps you refine and improve your architecture practices when using AWS.
 date: 2022-11-10T14:18:14+03:00
 ---
