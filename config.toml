@@ -24,10 +24,10 @@ startLevel = 2
 [markup.goldmark.renderer]
 unsafe = true
 
-[social]
-github = "well-architected"
-twitter = "well-architected"
-stackoverflow = "well-architected"
+#[social]
+#github = "well-architected"
+#twitter = "well-architected"
+#stackoverflow = "well-architected"
 
 [sitemap]
 changefreq = "daily"
