@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 #themesDir = "../../"
 hasCJKLanguage = true
 paginate = 3
-googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "G-JKZ8MM61PD"
 disqusShortname = "your-disqus-shortname"
 
 [permalinks]
