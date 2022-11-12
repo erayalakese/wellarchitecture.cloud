@@ -1,0 +1,53 @@
+baseURL = "https://wellarchitecture.cloud"
+languageCode = "en-us"
+title = "Well Architecture"
+theme = "mini"
+defaultContentLanguage = "en"
+#themesDir = "../../"
+hasCJKLanguage = true
+paginate = 3
+googleAnalytics = "your-google-analytics-id"
+disqusShortname = "your-disqus-shortname"
+
+[permalinks]
+posts = "/posts/:title/"
+
+[markup.highlight]
+guessSyntax = true
+style = "emacs"
+
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 2
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[social]
+github = "well-architected"
+twitter = "well-architected"
+stackoverflow = "well-architected"
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[params]
+author = "Well Architecture"
+bio = "A journey for AWS Well-Architected Framework"
+description = "A journey for AWS Well-Architected Framework."
+enableRSS = false
+enableComments = true
+enableRobotsTXT = false
+enableGoogleAnalytics = true
+showToc = false
+showPowerBy = false
+math = false
+hiddenPostSummaryInHomePage = false
+copyright = ""
+about = false
+#[[params.links]]
+#name = "Project"
+#path = "/project"
