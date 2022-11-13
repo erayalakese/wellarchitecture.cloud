@@ -1,8 +1,9 @@
 ---
 title: "AWS Well Architected Operational Excellence Pillar"
 date: 2022-11-13T05:20:38+03:00
-description: The Operational Excellence pillar of the AWS Well-Architected Framework helps you run your operations in a well-organized and efficient way.
+description: "The Operational Excellence pillar of the AWS Well-Architected Framework helps you run your operations in a well-organized and efficient way."
 keywords: "AWS Well-Architected Framework, Operational Excellence, pillar, best practices, guidelines, AWS"
+summary: "The Operational Excellence pillar of the AWS Well-Architected Framework helps you run your operations in a well-organized and efficient way."
 ---
 
 
