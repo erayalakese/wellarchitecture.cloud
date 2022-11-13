@@ -1,6 +1,7 @@
 ---
 title: "What Is AWS Well Architected?"
-description: AWS Well-Architected is a framework that helps you refine and improve your architecture practices when using AWS.
+description: "The AWS Well-Architected Framework helps you understand the architectural principles of AWS and how they can be applied to design systems that are reliable, secure, efficient, and cost-effective."
+summary: "The AWS Well-Architected Framework helps you understand the architectural principles of AWS and how they can be applied to design systems that are reliable, secure, efficient, and cost-effective."
 date: 2022-11-10T14:18:14+03:00
 ---
 
