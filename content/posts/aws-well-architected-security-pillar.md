@@ -2,8 +2,7 @@
 title: "AWS Well Architected Security Pillar"
 description: "The AWS Well-Architected Security Pillar provides guidance on how to build security into AWS applications and architecture. This blog post provides an overview of the security pillar and how it can help you build a more secure AWS environment."
 summary: "The AWS Well-Architected Security Pillar provides guidance on how to build security into AWS applications and architecture. This blog post provides an overview of the security pillar and how it can help you build a more secure AWS environment."
-date: 2022-11-13T05:10:21+03:00
-draft: true
+date: 2022-11-13T15:10:21+03:00
 ---
 
 
