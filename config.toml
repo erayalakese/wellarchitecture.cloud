@@ -9,6 +9,9 @@ paginate = 3
 googleAnalytics = "G-JKZ8MM61PD"
 disqusShortname = "your-disqus-shortname"
 
+# Disable category and tags - https://codingnconcepts.com/hugo/disable-taxonomy-pages-hugo/
+disableKinds = ["taxonomy", "term"]
+
 [permalinks]
 posts = "/posts/:title/"
 
