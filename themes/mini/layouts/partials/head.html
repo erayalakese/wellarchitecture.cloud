@@ -11,7 +11,8 @@
 {{ end }}
 
 <link rel="canonical" href="{{ .Permalink }}" />
-<link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+{{ $css := resources.Get "css/style.css" | minify }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
 
