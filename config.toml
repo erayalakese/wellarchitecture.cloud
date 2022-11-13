@@ -1,6 +1,6 @@
 baseURL = "https://wellarchitecture.cloud"
 languageCode = "en-us"
-title = "Well Architecture Cloud - AWS Well-Architected Framework journey and experiences"
+title = "Well Architecture Cloud - AWS Well Architected Framework journey and experiences"
 theme = "mini"
 defaultContentLanguage = "en"
 #themesDir = "../../"
