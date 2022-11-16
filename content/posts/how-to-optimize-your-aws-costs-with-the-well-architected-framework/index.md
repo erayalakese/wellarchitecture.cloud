@@ -7,10 +7,10 @@ summary: "In this blog post, we'll cover the key concepts of the Cost Optimizati
 ---
 
 
-1. Introduction to the AWS Well-Architected Framework's Cost Efficiency Pillar
-1. How the Cost Efficiency pillar can help you save money on AWS
-1. Best practices for cost efficient architecture on AWS
-1. Conclusion
+1. [Introduction to the AWS Well-Architected Framework's Cost Efficiency Pillar](https://wellarchitecture.cloud/posts/how-to-optimize-your-aws-costs-with-the-well-architected-framework/#1-introduction-to-the-aws-well-architected-frameworks-cost-efficiency-pillar)
+1. [How the Cost Efficiency pillar can help you save money on AWS?](https://wellarchitecture.cloud/posts/how-to-optimize-your-aws-costs-with-the-well-architected-framework/#2-how-the-cost-efficiency-pillar-can-help-you-save-money-on-aws)
+1. [Best practices for cost efficient architecture on AWS](https://wellarchitecture.cloud/posts/how-to-optimize-your-aws-costs-with-the-well-architected-framework/#3-best-practices-for-cost-efficient-architecture-on-aws)
+1. [Conclusion](https://wellarchitecture.cloud/posts/how-to-optimize-your-aws-costs-with-the-well-architected-framework/#conclusion)
 
 
 
